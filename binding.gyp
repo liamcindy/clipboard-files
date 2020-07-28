@@ -18,8 +18,8 @@
 					],
 					'link_settings': {
 						'libraries': [
-              '-framework Cocoa',
-              '-framework Foundation',
+                            '-framework Foundation',
+                            '-framework Cocoa',
 							'-framework CoreFoundation',
 						]
 					},
