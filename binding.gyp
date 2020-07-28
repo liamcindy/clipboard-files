@@ -19,6 +19,7 @@
 					'link_settings': {
 						'libraries': [
               '-framework Cocoa',
+              '-framework Foundation',
 							'-framework CoreFoundation',
 						]
 					},
